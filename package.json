@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
   "bugs": {
     "url": "https://github.com/Pilotguide9897/Portfolio_Generator/issues"
   },
